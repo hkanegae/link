@@ -19,6 +19,13 @@
   - Nipponbare referenceと、Kasalath referenceの両方を利用可能
   - FASTA形式、csv形式でダウンロード可能
 
+--
+
+### sorghum QTL解析関連
+- [CSGRqtl ](http://helos.pgml.uga.edu/qtl/) 
+  - Comparative Maps
+  - a comparative QTL database
+
 ---
 ### 配列解析関連
 - web上で塩基配列の翻訳や分子量の推定  
