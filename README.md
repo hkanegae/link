@@ -18,6 +18,8 @@
   - 50品種のSNP情報を利用可能  
   - Nipponbare referenceと、Kasalath referenceの両方を利用可能
   - FASTA形式、csv形式でダウンロード可能
+ 
+- [RAPDB variant call pipeline](https://github.com/nigyta/rice_reseq)
 
 --
 
